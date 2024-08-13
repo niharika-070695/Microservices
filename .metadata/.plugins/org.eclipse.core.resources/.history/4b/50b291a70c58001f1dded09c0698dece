@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: 47-SBMS-GREET-API

@@ -1,0 +1,23 @@
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+    
+
+  application:
+    name: API-GATEWAY
+  
+  
+          
+server:
+  port: 3333
+  
+  
+ 
+  
+  
+  
+

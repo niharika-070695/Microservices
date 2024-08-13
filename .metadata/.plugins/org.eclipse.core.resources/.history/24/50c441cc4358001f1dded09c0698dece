@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: 48-SBMS-API-Gateway
