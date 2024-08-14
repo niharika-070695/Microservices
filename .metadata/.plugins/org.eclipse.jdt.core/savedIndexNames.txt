@@ -42,7 +42,6 @@ INDEX VERSION 1.132+C:\Users\nihar\OneDrive\Desktop\Microservices\.metadata\.plu
 2812605587.index
 2440720393.index
 300592773.index
-840187709.index
 2554890284.index
 1855713069.index
 1203338016.index

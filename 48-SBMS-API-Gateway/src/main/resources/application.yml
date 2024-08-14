@@ -10,11 +10,11 @@ spring:
       - id: one
         uri: lb://welcome-api
         predicates:
-        - Path: /welcome
+        - Path = /welcome
       - id: two
-        uri: lb://GREET-API
+        uri: http://localhost:9091
         predicates:
-        - Path: /greet
+        - Path=/greet/**
     
 
   application:
